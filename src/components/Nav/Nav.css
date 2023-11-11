@@ -1,0 +1,42 @@
+.about1,
+.back1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100px;
+  display: inline-block;
+  width: 388px;
+}
+.back1 {
+  width: 63.42%;
+  left: 36.58%;
+  line-height: 27.5px;
+}
+.back-group,
+.group-item {
+  position: absolute;
+  top: 11.32px;
+  left: -0.5px;
+  width: 23.01px;
+  height: 7.36px;
+}
+.back-group {
+  height: 21.88%;
+  width: 18.02%;
+  top: 78.13%;
+  right: 81.47%;
+  bottom: 0;
+  left: 0.51%;
+  font-size: var(--body-text-size);
+  color: var(--color-gray-200);
+  font-family: var(--body-text);
+}
+.nav1 {
+  width: 394px;
+  height: 128px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--sub-header);
+}

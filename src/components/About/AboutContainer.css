@@ -1,0 +1,60 @@
+.im-currently-working1 {
+  margin: 0;
+  padding-left: var(--padding-5xl);
+}
+.im-currently-working-container1 {
+  position: absolute;
+  height: 6.73%;
+  width: 94.59%;
+  top: 80.93%;
+  left: 5.41%;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.about-me1 {
+  position: absolute;
+  width: 47.21%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  line-height: 100px;
+  display: inline-block;
+  font-family: var(--sub-header);
+  color: var(--color-lightgray);
+}
+.currently-studying-computer1 {
+  margin-bottom: 0;
+}
+.currently-studying-computer-container1 {
+  position: absolute;
+  height: 28.41%;
+  width: 94.59%;
+  top: 16.64%;
+  left: 5.41%;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.flutter-framework-react-container1,
+.mobile-application-project-container1 {
+  position: absolute;
+  top: 46.17%;
+  left: 21.98%;
+  line-height: 27.5px;
+  color: var(--color-black);
+}
+.mobile-application-project-container1 {
+  top: 89.72%;
+}
+.im-currently-working-on-group {
+  position: absolute;
+  height: 100%;
+  width: 52.51%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 47.49%;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-gray-200);
+  font-family: var(--font-inherit);
+}

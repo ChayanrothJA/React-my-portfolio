@@ -1,0 +1,77 @@
+.image-12-icon {
+  position: absolute;
+  height: 80.93%;
+  width: 41.15%;
+  top: 17.76%;
+  right: 58.85%;
+  bottom: 1.31%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.im-currently-working {
+  margin: 0;
+  padding-left: var(--padding-5xl);
+}
+.im-currently-working-container {
+  position: absolute;
+  height: 6.73%;
+  width: 94.59%;
+  top: 80.93%;
+  left: 5.41%;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.about-me {
+  position: absolute;
+  width: 47.21%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  line-height: 100px;
+  display: inline-block;
+  font-family: var(--sub-header);
+  color: var(--color-lightgray);
+}
+.currently-studying-computer {
+  margin-bottom: 0;
+}
+.currently-studying-computer-container {
+  position: absolute;
+  height: 28.41%;
+  width: 94.59%;
+  top: 16.64%;
+  left: 5.41%;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.flutter-framework-react-container,
+.mobile-application-project-container {
+  position: absolute;
+  top: 46.17%;
+  left: 21.98%;
+  line-height: 27.5px;
+  color: var(--color-black);
+}
+.mobile-application-project-container {
+  top: 89.72%;
+}
+.im-currently-working-on-parent {
+  position: absolute;
+  height: 100%;
+  width: 52.51%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 47.49%;
+}
+.content {
+  width: 1057px;
+  height: 535px;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-gray-200);
+  font-family: var(--font-inherit);
+}

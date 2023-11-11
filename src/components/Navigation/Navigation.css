@@ -1,0 +1,47 @@
+.portfolio {
+  text-transform: uppercase;
+  display: inline-block;
+  width: 149px;
+}
+.about5,
+.contact4,
+.get-in-touch1,
+.portfolio {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 27.5px;
+  cursor: pointer;
+}
+.contact4,
+.get-in-touch1 {
+  left: 36.07%;
+  cursor: pointer;
+}
+.get-in-touch1 {
+  left: 71.62%;
+}
+.about-parent {
+  position: absolute;
+  height: 100%;
+  width: 35.43%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 64.57%;
+}
+.nav2 {
+  position: absolute;
+  margin: 0 !important;
+  top: 87px;
+  left: calc(50% - 531px);
+  width: 1064px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+  text-align: left;
+  font-size: var(--sub-header-size);
+  color: var(--color-white);
+  font-family: var(--sub-header);
+}

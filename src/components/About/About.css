@@ -1,0 +1,18 @@
+.about-inner {
+  position: absolute;
+  height: 0.29%;
+  width: 93.09%;
+  top: 0.15%;
+  right: 6.91%;
+  bottom: 99.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about4 {
+  position: relative;
+  width: 1144px;
+  height: 1367px;
+  z-index: 1;
+}
