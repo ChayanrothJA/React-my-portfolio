@@ -1,0 +1,135 @@
+.image-10-icon {
+  position: relative;
+  width: 1920px;
+  height: 897px;
+  object-fit: cover;
+  z-index: 0;
+}
+.chayanroht-pongsathapon,
+.im-studying-computer {
+  position: absolute;
+  height: 59.74%;
+  width: 79.82%;
+  top: 0;
+  left: 0;
+  line-height: 100px;
+  display: inline-block;
+}
+.im-studying-computer {
+  height: 16.43%;
+  width: 99.41%;
+  top: 83.57%;
+  left: 0.59%;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  font-family: var(--body-text);
+  color: var(--color-gray-100);
+}
+.chayanroht-pongsathapon-parent {
+  position: absolute;
+  margin: 0 !important;
+  height: 34.62%;
+  width: 35.36%;
+  top: 26.99%;
+  right: 42.45%;
+  bottom: 38.39%;
+  left: 22.19%;
+  z-index: 1;
+}
+.about-child {
+  position: absolute;
+  height: 83.17%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 16.83%;
+  left: 0;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+}
+.about3 {
+  position: absolute;
+  height: 70.22%;
+  width: 65.64%;
+  top: 12.39%;
+  left: 25.77%;
+  letter-spacing: 0.1em;
+  line-height: 27.5px;
+  font-weight: 600;
+  display: inline-block;
+}
+.about-item {
+  position: absolute;
+  height: 99.01%;
+  width: 39.22%;
+  top: 0.99%;
+  right: 35.29%;
+  bottom: 0;
+  left: 25.49%;
+}
+.about2,
+.contact-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.about2 {
+  width: 46.31%;
+  right: 53.69%;
+  cursor: pointer;
+}
+.contact-child {
+  width: 94.83%;
+  right: 5.17%;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+}
+.contact2 {
+  position: absolute;
+  height: 34.34%;
+  width: 82.76%;
+  top: 14.72%;
+  left: 17.24%;
+  letter-spacing: 0.1em;
+  line-height: 27.5px;
+  font-weight: 600;
+  display: inline-block;
+}
+.contact1 {
+  position: absolute;
+  height: 84.19%;
+  width: 49.43%;
+  top: 0;
+  right: 0;
+  bottom: 15.81%;
+  left: 50.57%;
+  cursor: pointer;
+}
+.buttonlink {
+  position: absolute;
+  margin: 0 !important;
+  height: 5.01%;
+  width: 18.33%;
+  top: 69.91%;
+  right: 59.27%;
+  bottom: 25.09%;
+  left: 22.4%;
+  z-index: 2;
+  font-size: var(--sub-header-size);
+}
+.hero {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 0;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--sub-header);
+}

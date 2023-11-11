@@ -1,0 +1,65 @@
+.image-16-icon1 {
+  position: relative;
+  width: 435px;
+  height: 584px;
+  object-fit: cover;
+}
+.facebook1 {
+  position: relative;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+  width: 175px;
+}
+.httpswwwfacebookcomjazec1 {
+  font-size: var(--sub-header-size);
+
+  line-height: 50px;
+  color: var(--color-mediumslateblue);
+  width: 585px;
+}
+.email1,
+.github-link2,
+.httpswwwfacebookcomjazec1,
+.line-095-723-43891 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.email1 {
+  line-height: 30px;
+  width: 525px;
+}
+.github-link2,
+.line-095-723-43891 {
+  line-height: 50px;
+}
+.github-link2 {
+
+  color: inherit;
+  width: 175px;
+}
+.line-095-723-43891 {
+  width: 525px;
+}
+.contact-content1,
+.input-field1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field1 {
+  width: 585px;
+  height: 659px;
+  flex-direction: column;
+  gap: var(--gap-mid);
+}
+.contact-content1 {
+  overflow: hidden;
+  flex-direction: row;
+  gap: var(--gap-86xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray);
+  font-family: var(--sub-header);
+}

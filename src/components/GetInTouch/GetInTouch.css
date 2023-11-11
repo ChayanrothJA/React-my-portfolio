@@ -1,0 +1,49 @@
+.get-in-touch,
+.s6303051613084emailkmutnbac {
+  position: absolute;
+  left: 0;
+  line-height: 100px;
+  display: inline-block;
+}
+.get-in-touch {
+  top: 0;
+  line-height: 130px;
+  display: inline-block;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--sub-header);
+  width: 379px;
+}
+.s6303051613084emailkmutnbac {
+  top: 115px;
+  text-decoration: underline;
+  font-weight: 600;
+  color: inherit;
+  width: 709px;
+}
+.github-link,
+.httpsgithubcomchayanrothj {
+  position: absolute;
+  top: 180px;
+  left: 0;
+  line-height: 100px;
+  font-weight: 500;
+  display: inline-block;
+  
+}
+.httpsgithubcomchayanrothj {
+  top: 180px;
+  left: 112px;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+  color: var(--color-mediumslateblue);
+  width: 871px;
+}
+.contact {
+  width: 1060px;
+  height: 300px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray);
+  font-family: var(--sub-header);
+}

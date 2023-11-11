@@ -1,0 +1,8 @@
+.contact3 {
+  position: relative;
+  width: 1125px;
+  height: 903px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
