@@ -1,7 +1,7 @@
 
   # React-my-portfolio
-  ##Link Web deploy
-  https://jaguar-portfolio-react.netlify.app/
+  ## ลิงก์เว็บไซต์ที่ถูกดำเนินการ (Web deploy)
+[https://jaguar-portfolio-react.netlify.app/](https://jaguar-portfolio-react.netlify.app/)
   
 ![Ex-port](https://github.com/ChayanrothJA/React-my-portfolio/assets/110073989/fce89272-9830-4331-a39c-415f2dd7b107)
 
