@@ -1,6 +1,7 @@
 
   # React-my-portfolio
-
+  
+![Ex-port](https://github.com/ChayanrothJA/React-my-portfolio/assets/110073989/fce89272-9830-4331-a39c-415f2dd7b107)
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
